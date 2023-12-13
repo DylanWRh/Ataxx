@@ -8,6 +8,6 @@
 2) 文件夹`Release`：内含可执行文件`Ataxx by WRH-Demo.exe`，可直接在Windows本地运行的课执行文件
 3) 文件`Ataxx-Src-BotZone.cpp`和`Ataxx-Src-Demo.cpp`：最终版本的Botzone API适应程序和本地运行程序。
 
-编译需要[`easyx`]图形库
+编译需要[`easyx`](https://easyx.cn/)图形库
 
 因为搭建项目时并不会用C++写面向对象，所以（特别是图形界面构建和棋子移动等行为的）代码实际上十分混乱冗余
